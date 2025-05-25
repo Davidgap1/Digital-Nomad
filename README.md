@@ -23,3 +23,4 @@ This project compares the monthly cost of living across 12 popular digital nomad
 ![Cost Comparison Chart](./Nomad_Cost_Comparison_Chart.png)
 
 This project is ideal for anyone planning long-term travel, freelance work abroad, or evaluating remote work destinations.
+Notion: https://cultured-wanderer-6ce.notion.site/David-Gapinski-Data-Travel-Analytics-Portfolio-1fe223828d4880b4b4e3df0372f38645
